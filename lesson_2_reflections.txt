@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+-when you initialize a repository git creates a .git file witch is used for managing the differences
+between all the different versions of the files
+
+How is the staging area different from the working directory and the repository? What value do you 
+think it offers?
+-staging area is the area where we position the files that we want to add to the repository from the
+working directory, so the value it offers is as an intermediate area between the two.
