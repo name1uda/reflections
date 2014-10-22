@@ -16,3 +16,7 @@ branches help?
 -when you are experimenting some with some changes and you want to have a working copy + a copy with
 your experimental changes. Branches would help by being able to create the experimental changes
 to one branch and have the working copy on an other branch. This way you could switch between then.
+
+How do the diagrams help you visualize the branch structure?
+-diagrams help visualise branch structure, first by showing the branches and showing their history
+and from where were they created.
