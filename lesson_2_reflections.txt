@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 -when you initialize a repository git creates a .git file witch is used for managing the differences
-between all the different versions of the files
+between all the different versions of the files.
 
 How is the staging area different from the working directory and the repository? What value do you 
 think it offers?
@@ -9,7 +9,7 @@ working directory, so the value it offers is as an intermediate area between the
 
 How can you use the staging area to make sure you have one commit per logical change?
 -by only adding to the staging area the files witch represent a logical change and commit them,
-leaving the rest of the files that are not part of a logical change in the working directory
+leaving the rest of the files that are not part of a logical change in the working directory.
 
 What are some situations when branches would be helpful in keeping your history organized? How would 
 branches help?
@@ -20,3 +20,9 @@ to one branch and have the working copy on an other branch. This way you could s
 How do the diagrams help you visualize the branch structure?
 -diagrams help visualise branch structure, first by showing the branches and showing their history
 and from where were they created.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way 
+we do?
+-the result is that we have all the changes in one place. We represent it the way we do because
+it symbolises that the two branches have been created in parallel without knowing of each other
+and then they got merged into one.
