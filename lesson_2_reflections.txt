@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 think it offers?
 -staging area is the area where we position the files that we want to add to the repository from the
 working directory, so the value it offers is as an intermediate area between the two.
+
+How can you use the staging area to make sure you have one commit per logical change?
+-by only adding to the staging area the files witch represent a logical change and commit them,
+leaving the rest of the files that are not part of a logical change in the working directory
