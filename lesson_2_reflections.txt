@@ -26,3 +26,10 @@ we do?
 -the result is that we have all the changes in one place. We represent it the way we do because
 it symbolises that the two branches have been created in parallel without knowing of each other
 and then they got merged into one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-pros of Git's automatic merging vs. manually: it is faster and used in cases where it is certain 
+that that resolving strategy would have been applied anyway.
+-cons of Git's automatic merging vs. manually: it is not always resolving the conflicts, and in
+rare cases it can resolve the conflicts in an undesired manner.
+
