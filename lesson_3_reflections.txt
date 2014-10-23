@@ -5,3 +5,9 @@ Why might you want to always pull changes manually rather than having Git automa
 up-to-date with your remote repository?
 -because you have control over what branch gets pull and when it is pulled so that you can finish 
 your part without interference from an automatic pull, making changes from underneath you feet.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of 
+another?
+-fork is a special clone on github, clone is simply copying a repository, and branches are used
+to give one or more commits a name and to separate them from the rest of the changes and commits
+on the repository.
