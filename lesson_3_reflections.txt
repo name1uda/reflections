@@ -11,3 +11,6 @@ another?
 -fork is a special clone on github, clone is simply copying a repository, and branches are used
 to give one or more commits a name and to separate them from the rest of the changes and commits
 on the repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-in case you go offline you can still have the last known state.
