@@ -14,3 +14,8 @@ on the repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 -in case you go offline you can still have the last known state.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be 
+harder?
+-the learning curb will be easier, since most likely it will be a series of conversations, but it
+would be much more verbose and much harder since there be none of the git features.
