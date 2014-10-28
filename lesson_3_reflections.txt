@@ -19,3 +19,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 harder?
 -the learning curb will be easier, since most likely it will be a series of conversations, but it
 would be much more verbose and much harder since there be none of the git features.
+
+When would you want to make changes in a separate branch rather than directly in master? What 
+benefits does each approach have?
+-one big advantage is that this way merge conflicts can be resolved localy, by pulling the master,
+and then merging it in the local branch.
